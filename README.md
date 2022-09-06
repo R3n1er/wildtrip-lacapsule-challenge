@@ -1,11 +1,12 @@
 # WILD TRIP Challenge La Capsule Paris
 
---> Objectif : Utiliser le framework Express pour créer de nouveaux voyages
+> **Objectifs** : Utiliser le framework Express pour créer de nouveaux voyages
 
 ## 1 -  MISE EN PLACE DE L’ENVIRONNEMENT
 👉 Récupérez les ressources mises à disposition.
 
 👉 Installez les dépendances (npm install).
+
 
 ## 2 - HOMEPAGE
 
